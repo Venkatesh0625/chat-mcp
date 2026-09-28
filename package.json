@@ -1,5 +1,5 @@
 {
-  "name": "chat-server",
+  "name": "chat-mcp",
   "version": "1.0.0",
   "description": "WhatsApp MCP server: stores your messages in SQLite and lets agents read only the chats you pick",
   "private": true,
